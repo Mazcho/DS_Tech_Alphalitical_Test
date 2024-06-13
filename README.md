@@ -6,7 +6,7 @@ Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Getting Started
-- [File Modeling](https://www.example.com](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/blob/main/DS%20-%20Tech%20Test%20Alphalitical.ipynb)
+- [File Modeling](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/blob/main/DS%20-%20Tech%20Test%20Alphalitical.ipynb)
 
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
