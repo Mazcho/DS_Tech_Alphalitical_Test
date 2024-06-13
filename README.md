@@ -1,6 +1,6 @@
-# Sentimen Analisis
+# Alphalitical Data Scientist Technical Test
 
-One Paragraph of the project description
+Selamat siang kepada kakak HR dan REviewer DataScietist Tech Alphalitical Test, dalampengerjaan skill test ini saya melakukan perbandingan model deepLearning diantaranya model CNN, RNN, dan LSTM. Ketiga model tersebut dievaluasi menggunakan Akurasi, LoglOss, Clasification report ( f1-score, recall, precision), konfusi matrix. Dalam test ini juga saya telah membuat API dan mendeploy sesuai dengan instruksi yang ada pada soal test. UNtuk API terdapat pada folder FLASkAPIDeployment. 
 
 Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
