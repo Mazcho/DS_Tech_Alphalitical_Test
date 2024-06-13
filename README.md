@@ -12,6 +12,4 @@ Initially appeared on
 
 ### Hasil Implementasi Model dari API (file nomor3)
 
-![Gambar WhatsApp 2024-06-14 pukul 03 21 32_672cb8fc](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/assets/77985996/ed6be460-69b1-43d0-aa15-f0af22c83c24)
-
-![Gambar WhatsApp 2024-06-14 pukul 03 25 16_859e75a9](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/assets/77985996/48ab110c-ca5e-4bd4-a1e8-12b308617eb5)
+![Gambar WhatsApp 2024-06-14 pukul 03 21 32_672cb8fc](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/assets/77985996/ed6be460-69b1-43d0-aa15-f0af22c83c24) ![Gambar WhatsApp 2024-06-14 pukul 03 25 16_859e75a9](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/assets/77985996/48ab110c-ca5e-4bd4-a1e8-12b308617eb5)
