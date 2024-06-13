@@ -7,7 +7,7 @@ Initially appeared on
 
 ## Submission FIle
 - 1. [File MOdeling Jupyeter Notebook](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/blob/main/DS%20-%20Tech%20Test%20Alphalitical.ipynb)
-- 2. [File API untuk inputan "kita akan semakin cerdas jika kita terus menerus melatih otak kita"](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/blob/main/api_sub.py)
+- 2. [File API untuk inputan "kita akan semakin cerdas jika kita terus menerus melatih otak kita"](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/blob/main/FlaskAPIDeployment/api_sub.py)
 - 3. [Ini File API Implementasi Model Klasifikasi Teks dengan UserInterface](https://github.com/Mazcho/DS_Tech_Alphalitical_Test/blob/main/FlaskAPIDeployment/main.py)
 
 ### Hasil Implementasi Model dari API (file nomor3)
